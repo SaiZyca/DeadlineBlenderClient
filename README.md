@@ -3,6 +3,8 @@ Deadline submit for blender
 
 # 安裝方式
 
+下載 DeadlineBlenderClient.py
+
 將檔案複製到
 C:\Users\%username%\AppData\Roaming\Blender Foundation\Blender\2.80\scripts\addons
 
