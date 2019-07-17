@@ -1,5 +1,5 @@
 # DeadlineBlenderClient
-Deadline submit for blender2.8
+Deadline submit for blender 2.8
 
 # 安裝方式
 
